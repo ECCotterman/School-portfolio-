@@ -5,7 +5,7 @@ The following comes directly from the CF course curriculum. (Updated after my co
 
 ## Preparing & Analyzing Data
 
-Learn how to interpret business requirements to guide your data analysis and begin developing and designing your data project. 
+### Learn how to interpret business requirements to guide your data analysis and begin developing and designing your data project. 
 
 Designing a Data Research Project
 
@@ -23,10 +23,12 @@ Statistical Hypothesis Testing
 
 Consolidating Analytical Insights
 
+<img width="640" alt="GamesCo Analysis" src="https://github.com/ECCotterman/School-portfolio-/assets/82326100/1d331847-2650-400f-afec-dceb7a4aeddf">
+
 
 ## Data Visualization & Storytelling
 
-Explore the different types of data visualization and what they can be used for, as well as some best practices to keep your visualizations accessible and easily interpretable.
+### Explore the different types of data visualization and what they can be used for, as well as some best practices to keep your visualizations accessible and easily interpretable.
 
 Visual Design Basics & Tableau
 
@@ -46,11 +48,13 @@ Storytelling with Data Presentations
 
 Presenting Findings to Stakeholders
 
+<img width="520" alt="Screenshot 2023-10-05 at 09 15 53" src="https://github.com/ECCotterman/School-portfolio-/assets/82326100/1b0e4b46-af18-425e-a207-2a697cd94efc">
+
 
 
 ## Databases & SQL for Analysts
 
-Develop database-querying skills while mastering SQL, the industry-standard language for performing these tasks in the real world.
+### Develop database-querying skills while mastering SQL, the industry-standard language for performing these tasks in the real world.
 
 Intro to Relational Databases
 
@@ -76,7 +80,7 @@ Presenting SQL Results
 
 ## Python Fundamentals for Data Analysts
 
-Get hands-on with Python—the go-to language used by data analysts to conduct advanced analyses. Here’s what you’ll learn:
+### Get hands-on with Python—the go-to language used by data analysts to conduct advanced analyses. Here’s what you’ll learn:
 
 Introduction to Programming for Data Analysts
 
@@ -98,11 +102,12 @@ Intro to Data Visualization with Python
 
 Coding Etiquette & Excel Reporting
 
+![Age_region](https://github.com/ECCotterman/School-portfolio-/assets/82326100/50d45f66-3cb5-4207-a37f-ef3afcbe2253)
 
 
 ## Data Ethics & Applied Analytics
 
-Learn how to identify and address data bias, data privacy, and data security. You’ll also explore big data analysis, machine learning, and data mining.
+### Learn how to identify and address data bias, data privacy, and data security. You’ll also explore big data analysis, machine learning, and data mining.
 
 Intro to Big Data
 
@@ -124,7 +129,7 @@ Preparing a Data Analytics Portfolio
 
 ## Advanced Analytics & Dashboard Design
 
-Complete an analysis project using data of your choosing, and build on your advanced analytics skills by taking a dive into machine learning and regression analysis.
+### Complete an analysis project using data of your choosing, and build on your advanced analytics skills by taking a dive into machine learning and regression analysis.
 
 Sourcing Open Data
 
@@ -139,3 +144,4 @@ Unsupervised Machine Learning: Clustering
 Sourcing & Analyzing Time Series Data
 
 Creating Data Dashboards
+
