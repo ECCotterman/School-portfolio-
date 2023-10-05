@@ -8,12 +8,19 @@ The following comes directly from the CF course curriculum. (Updated after my co
 Learn how to interpret business requirements to guide your data analysis and begin developing and designing your data project. 
 
 Designing a Data Research Project
+
 Sourcing the Right Data
+
 Data Profiling & Integrity
+
 Data Quality Measures
+
 Data Transformation & Integration
+
 Conducting Statistical Analyses
+
 Statistical Hypothesis Testing
+
 Consolidating Analytical Insights
 
 
@@ -50,7 +57,7 @@ Presenting SQL Results
 
 
 
-Python Fundamentals for Data Analysts
+## Python Fundamentals for Data Analysts
 
 Get hands-on with Python—the go-to language used by data analysts to conduct advanced analyses. Here’s what you’ll learn:
 
